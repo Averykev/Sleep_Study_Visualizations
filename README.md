@@ -1,5 +1,8 @@
 # Sleep Study:
 
+INSTRUCTIONS:  To see this project just open the "app.py" file and run it in the terminal.  You should be able to view a link to the site from there.  
+If not you can visit  https://averykev.github.io/Sleep_Study_Visualizations/
+
 Summary:
 
 This project presents several visualizations showing the affects of sleep throughout different parts of the country.
